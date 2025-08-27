@@ -1,0 +1,36 @@
+# Maven target folder
+/target/
+
+# Eclipse files
+/.classpath
+/.project
+/.settings/
+
+# IntelliJ IDEA files
+/.idea/
+/*.iml
+
+# VS Code files
+/.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test reports
+/test-output/
+/surefire-reports/
+/cucumber-reports/
+
+# Selenium specific (local drivers or binaries)
+chromedriver.exe
+geckodriver.exe
+IEDriverServer.exe
